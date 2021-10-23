@@ -1,7 +1,5 @@
 import styled from 'styled-components';
 
-import red from './img/red.png';
-
 export const Styles = styled.div`
   .container {
     max-width: 1170px;
